@@ -1,0 +1,7 @@
+E:\Study\Semester2\PF\WEEK 1\lab1\bin\Debug\lab1.exe.config
+E:\Study\Semester2\PF\WEEK 1\lab1\bin\Debug\lab1.exe
+E:\Study\Semester2\PF\WEEK 1\lab1\bin\Debug\lab1.pdb
+E:\Study\Semester2\PF\WEEK 1\lab1\obj\Debug\lab1.csproj.AssemblyReference.cache
+E:\Study\Semester2\PF\WEEK 1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+E:\Study\Semester2\PF\WEEK 1\lab1\obj\Debug\lab1.exe
+E:\Study\Semester2\PF\WEEK 1\lab1\obj\Debug\lab1.pdb
